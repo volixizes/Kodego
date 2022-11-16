@@ -1,0 +1,35 @@
+#register {
+    color:blue;
+    font-size: 50px;
+    border: 10px solid black;
+    padding-top: 10px;
+    text-align:center;
+}
+#register:hover {
+    color:darkblue;
+  
+}
+
+/* This is a hover styling */
+
+.btn{
+    background-color: red;
+    color:green;
+    border-radius: 100%;
+    padding: 50px;
+    box-shadow: 50px;
+
+}
+.btn:hover{
+    background-color: blue;
+
+}
+
+.bold{
+    font-weight: 900;
+    font-style: italic;
+}
+
+.glow {
+
+}

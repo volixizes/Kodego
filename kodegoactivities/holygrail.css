@@ -1,0 +1,26 @@
+.holyGrail{
+    display: flex;
+    flex-wrap: nowrap;
+    
+    
+   
+}
+.holyGrail > div {
+    background-color: lightgoldenrodyellow;
+    width: auto;
+    margin: 10px;
+    text-align:center;
+    line-weight: 75px;
+    font-size: 10px;
+    flex-direction: column;
+}
+
+header, footer{
+    background-color: yellowgreen;
+    padding: 30px;
+}
+
+select{
+    size: 10px;
+}
+
